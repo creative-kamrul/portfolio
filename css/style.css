@@ -78,7 +78,7 @@ p {
 }
 
 /*preloder*/
-
+/* 
 .cube-folding {
     width: 50px;
     height: 50px;
@@ -276,7 +276,7 @@ p {
     position: fixed;
     z-index: 9999999;
 }
-
+ */
 
 .made-with-love {
     position: fixed;
@@ -485,9 +485,9 @@ p {
 }
 
 .banner-txt2 {
-    padding-top: 190px;
+    padding-top: 280px;
     margin-left: -225px;
-    margin-bottom: 115px;
+    /* margin-bottom: 115px; */
 }
 
 .banner-txt2 p {
@@ -648,7 +648,7 @@ p {
     position: relative;
     text-align: center;
 }
-.img-fluid {
+#about .img-fluid {
     max-width: 58%;
     height: auto;
     margin-top: 12px;
