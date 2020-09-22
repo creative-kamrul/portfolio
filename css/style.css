@@ -647,7 +647,12 @@ p {
     position: relative;
     text-align: center;
 }
-
+.img-fluid {
+    max-width: 58%;
+    height: auto;
+    margin-top: 12px;
+    margin-left: 100px;
+}
 .menu-vertical {
     position: absolute;
     left: 0;
